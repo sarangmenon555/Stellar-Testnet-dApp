@@ -1,4 +1,4 @@
-# Stellar White Belt dApp
+# Stellar Testnet dApp
 
 A simple Stellar testnet dApp built using React that allows users to connect a Freighter wallet, view their XLM balance, and send XLM transactions.
 
